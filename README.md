@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KjaniVE
 - 👀 I’m interested in ethical hacking and programming
-- 🌱 I’m currently learning ethical hacking, programming and electricitie and electronics.
+- 🌱 I’m currently learning ethical hacking, programming and electricity and electronics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
